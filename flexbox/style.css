@@ -1,0 +1,22 @@
+.container {
+  background-color: #ddd;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  height: 250px;
+  align-items: center;
+  color: white;
+}
+.child-1 {
+  background-color: red;
+  flex-basis: 20%;
+}
+.child-2 {
+  background-color: green;
+  flex-basis: 60%;
+}
+.child-3 {
+  background-color: grey;
+  flex-basis: 20%;
+  text-transform: capitalize;
+}

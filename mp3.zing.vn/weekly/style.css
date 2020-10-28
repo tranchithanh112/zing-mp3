@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+.weekly {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 250px;
+  border-bottom: 1px solid #aaa;
+}
+.number {
+  font-size: 20px;
+  padding: 0 8px;
+}
+.info {
+  font-size: 14px;
+  text-transform: capitalize;
+  flex-grow: 1;
+}
+.singer {
+  color: #999;
+}
+.song {
+  margin-bottom: 8px;
+}
+.view-count {
+  font-size: 13px;
+  color: #999;
+}

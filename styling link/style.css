@@ -1,0 +1,20 @@
+.link-1 {
+  color: #15e4e4;
+  text-decoration: none;
+}
+.link-1:hover {
+  text-decoration: underline;
+}
+.link-1:active {
+  color: red;
+}
+.link-2 {
+  text-decoration: none;
+  text-decoration: none;
+  background-color: #20bbf1;
+  color: white;
+  padding: 8px;
+}
+.link-2:hover {
+  background-color: #0c769a;
+}
